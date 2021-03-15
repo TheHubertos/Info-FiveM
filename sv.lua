@@ -32,7 +32,7 @@ function ExtractIdentifiers(src)
     return identifiers
 end
 
-webhook = "https://discord.com/api/webhooks/820940032662568971/Qt1Hg4C77HHNePD9E6KGLSP1awkoDttkAHPRVQYD82ZpXgRqoZI0y7-vC-i8FYpSo2xG"
+webhook = "TFUJ_WEBHUK_LOL"
 
 RegisterServerEvent('wolfi_log')
 AddEventHandler('wolfi_log', function(message, color)
