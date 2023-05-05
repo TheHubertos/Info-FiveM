@@ -1,4 +1,4 @@
-# Info-FiveM
+# hubercik_infocmd
 
 Command /info sending a lot of informationc of player
 
